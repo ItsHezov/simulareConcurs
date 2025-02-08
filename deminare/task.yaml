@@ -1,0 +1,9 @@
+name: "deminare"
+title: "Deminare"
+time_limit: 0.06
+memory_limit: 32
+n_input: 20
+public_testcases: 0, 1, 2 
+infile: "deminare.in"
+outfile: "deminare.out"
+token_mode: infinite
