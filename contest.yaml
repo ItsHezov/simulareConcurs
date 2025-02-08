@@ -1,0 +1,40 @@
+name: "CNVA PhantForces"
+description: "Simulare concurs"
+tasks:
+  - "balaur"
+  - "furnici"
+  - "deminare"
+users:
+  - username: "GeorgePahonie"
+    password: "OParolaGrea"
+    ip: null
+  - username: "IngridLazar"
+    password: "DanPracsiu"
+    ip: null
+  - username: "ErinComan"
+    password: "SpargatorulDeDani"
+    ip: null
+  - username: "DavidHaidau"
+    password: "Thanos"
+    ip: null
+  - username: "Mario"
+    password: "SalvatorulDeOchelari"
+    ip: null
+  - username: "LucaVartolomei"
+    password: "Formula1"
+    ip: null
+  - username: "Gabriela"
+    password: "CastoruYT"
+    ip: null
+  - username: "Teo"
+    password: "CautareBinara"
+    ip: null
+   - username: "MateiAndone"
+    password: "SetPrecision"
+    ip: null   
+  - username: "User10"
+    password: "cnva"
+    ip: null   
+    
+    
+token_mode: infinite
