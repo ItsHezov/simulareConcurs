@@ -1,0 +1,9 @@
+name: "furnici"
+title: "Furnici"
+time_limit: 0.10000
+memory_limit: 4
+n_input: 10
+public_testcases: 0, 1, 2
+infile: "furnici.in"
+outfile: "furnici.out"
+token_mode: infinite
