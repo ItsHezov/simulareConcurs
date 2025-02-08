@@ -1,0 +1,9 @@
+name: "balaur"
+title: "Balaur"
+time_limit: 0.1000
+memory_limit: 4.0000
+n_input: 10
+public_testcases: 0, 1, 2
+infile: "balaur.in"
+outfile: "balaur.out"
+token_mode: infinite
