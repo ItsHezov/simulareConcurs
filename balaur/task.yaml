@@ -1,7 +1,7 @@
 name: "balaur"
 title: "Balaur"
-time_limit: 0.1000
-memory_limit: 4.0000
+time_limit: 0.1
+memory_limit: 4
 n_input: 10
 public_testcases: 0, 1, 2
 infile: "balaur.in"
