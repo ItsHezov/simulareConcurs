@@ -1,5 +1,5 @@
-name: "CNVA PhantForces"
-description: "Simulare concurs"
+name: "simulareConcurs"
+description: "CNVA PhantForces"
 tasks:
   - "balaur"
   - "furnici"
