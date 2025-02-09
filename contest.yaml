@@ -29,7 +29,7 @@ users:
   - username: "Teo"
     password: "CautareBinara"
     ip: null
-   - username: "MateiAndone"
+  - username: "MateiAndone"
     password: "SetPrecision"
     ip: null   
   - username: "User10"
